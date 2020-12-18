@@ -1,0 +1,9 @@
+E:\KhachSanRar\KhachSan\Entyti\bin\Release\Entyti.dll
+E:\KhachSanRar\KhachSan\Entyti\bin\Release\Entyti.pdb
+E:\KhachSanRar\KhachSan\Entyti\obj\Release\Entyti.dll
+E:\KhachSanRar\KhachSan\Entyti\obj\Release\Entyti.pdb
+E:\KhachSan\Entyti\bin\Release\Entyti.dll
+E:\KhachSan\Entyti\bin\Release\Entyti.pdb
+E:\KhachSan\Entyti\obj\Release\Entyti.dll
+E:\KhachSan\Entyti\obj\Release\Entyti.pdb
+E:\KhachSan\Entyti\obj\Release\Entyti.csprojResolveAssemblyReference.cache
